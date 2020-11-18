@@ -1,2 +1,2 @@
-# teste_01
- Primeiro repositório versionado
+# Primeiro teste
+ Primeiro repositório versionado visando o aprendizado de versionamento de versão
